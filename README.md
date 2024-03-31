@@ -5,11 +5,11 @@ Hackers may change MAC addresses for various reasons, including enhancing privac
      https://www.youtube.com/@Conscious-TechHub
      
 # Use Mac Address
-     git clone 
+     git clone https://github.com/Conscious-TechHub/Mac-Changer.git
      cd Mac-Changer
      chmod +x mac.sh
 # One Click Setup
-     git clone && cd Mac-Changer && chmod +x mac.sh && bash mac.sh
+     git clone https://github.com/Conscious-TechHub/Mac-Changer.git && cd Mac-Changer && chmod +x mac.sh && bash mac.sh
 # Run Macchanger
     bash mac.sh
 # For Screen Setup
