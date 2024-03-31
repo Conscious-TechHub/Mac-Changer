@@ -4,16 +4,22 @@ Hackers may change MAC addresses for various reasons, including enhancing privac
 # Video Helps
      https://www.youtube.com/@Conscious-TechHub
      
-# Use Mac Address
+# Use Mac Address For Kali
      git clone https://github.com/Conscious-TechHub/Mac-Changer.git
      cd Mac-Changer
-     chmod +x mac.sh
+     chmod +x kali.sh
 # One Click Setup
-     git clone https://github.com/Conscious-TechHub/Mac-Changer.git && cd Mac-Changer && chmod +x mac.sh && bash mac.sh
+     git clone https://github.com/Conscious-TechHub/Mac-Changer.git && cd Mac-Changer && chmod +x kali.sh && bash kali.sh
 # Run Macchanger
-    bash mac.sh
+    bash kali.sh
 # For Screen Setup
 
 
-
-# Active for Kali Linux You Modify it Form mac.sh file
+# Use Mac Address For Kali
+     git clone https://github.com/Conscious-TechHub/Mac-Changer.git
+     cd Mac-Changer
+     chmod +x parrot.sh
+# One Click Setup
+     git clone https://github.com/Conscious-TechHub/Mac-Changer.git && cd Mac-Changer && chmod +x parrot.sh && bash parrot.sh
+# Run Macchanger
+    bash parrot.sh
