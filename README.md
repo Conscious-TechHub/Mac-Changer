@@ -1,2 +1,12 @@
-# Mac-Changer 
-Burp Suite Professional is a powerful cybersecurity tool used for web application security testing and analysis. It is developed by PortSwigger and is widely used by security professionals, ethical hackers, and penetration testers. Burp Suite Professional offers a range of features
+# Mac-Address Change
+Hackers may change MAC addresses for various reasons, including enhancing privacy, bypassing network restrictions, and conducting unauthorized activities. However, it's important to note that changing a MAC address for malicious purposes is unethical and illegal. MAC address spoofing should only be done for legitimate and legal purposes, such as network testing, security research, or privacy protection.
+
+
+# Use Mac Address
+     git clone 
+     cd Mac-Changer
+     chmod +x mac.sh
+
+# Run Macchanger
+    bash mac.sh
+    
