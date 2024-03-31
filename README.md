@@ -8,9 +8,12 @@ Hackers may change MAC addresses for various reasons, including enhancing privac
      git clone 
      cd Mac-Changer
      chmod +x mac.sh
-
+# One Click Setup
+     git clone && cd Mac-Changer && chmod +x mac.sh && bash mac.sh
 # Run Macchanger
     bash mac.sh
+# For Screen Setup
 
-    
+
+
 # Active for Kali Linux You Modify it Form mac.sh file
